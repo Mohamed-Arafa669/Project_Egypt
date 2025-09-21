@@ -45,6 +45,10 @@
 		{
 			"Name": "DeformerGraph",
 			"Enabled": true
+		},
+		{
+			"Name": "Test",
+			"Enabled": true
 		}
 	]
 }
