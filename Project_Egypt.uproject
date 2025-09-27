@@ -54,5 +54,8 @@
 			"Name": "Test",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
